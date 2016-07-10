@@ -1,6 +1,7 @@
 ---
 # title: Reproducible Research Assignment
 ## Patrick Garrabrant, CLU
+keep_md: true
 ---
 ##           R Markdown
 
